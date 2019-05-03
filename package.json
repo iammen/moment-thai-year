@@ -15,7 +15,7 @@
     "url": "https://github.com/iammen/moment-thai-year/issues"
   },
   "license": "MIT",
-  "main": "src/moment-thai-year.js",
+  "main": "moment-thai-year.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
