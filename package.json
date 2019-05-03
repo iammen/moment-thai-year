@@ -1,7 +1,7 @@
 {
   "name": "moment-thai-year",
   "version": "0.0.1",
-  "description": "Buddhist calendar format support for momentjs",
+  "description": "Thai year format support for momentjs",
   "homepage": "https://github.com/iammen/moment-thai-year",
   "author": {
     "name": "iammen",
