@@ -1,6 +1,6 @@
 {
   "name": "moment-thai-year",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Thai year format support for momentjs",
   "homepage": "https://github.com/iammen/moment-thai-year",
   "author": {
